@@ -85,9 +85,8 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-       "kkzy": {
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "name": "可可资源"
-    }
+      "leibo": {
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "name": "乐播资源"
   }
 }
