@@ -1,5 +1,6 @@
-
-  
+{
+    "cache_time": 9200,
+    "api_site": {
     "api_024": {
         "name": "AV-155资源",
         "api": "https://155api.com/api.php/provide/vod",
@@ -175,4 +176,5 @@
         "name": "饭团影视",
         "detail": ""
     }
+}
 }
